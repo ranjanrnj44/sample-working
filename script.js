@@ -1,1 +1,1 @@
-window.document.addEventListener("DOMContentLoaded", () => alert("Tree"));
+window.document.addEventListener("DOMContentLoaded", () => alert("Tree is great"));
